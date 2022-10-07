@@ -22,13 +22,13 @@ body {
 }
 
 .sidebar a.active {
-  background-color: #edd51c;
-  color: white;
+  background-color: #FEBC11;
+  color: black;
 }
 
 .sidebar a:hover:not(.active) {
-  background-color: #edd51c;
-  color: white;
+  background-color: #FEBC11;
+  color: black;
 }
 
 div.content {
