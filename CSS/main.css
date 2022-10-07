@@ -53,3 +53,8 @@ div.content {
     float: none;
   }
 }
+
+.responsive {
+  max-width: 400px;
+  height: auto;
+}
